@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b02acc2c5ba1cd41ee1b52fe2147af5",
+    "revision": "6f815f4005495071d4d19cc942a39991",
     "url": "/honghac/index.html"
   },
   {
-    "revision": "342a2a0a7996d3ba1123",
+    "revision": "a8eedd5a25b58add688c",
     "url": "/honghac/static/css/main.5b9d06cf.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/honghac/static/js/2.15fbe00d.chunk.js"
   },
   {
-    "revision": "342a2a0a7996d3ba1123",
-    "url": "/honghac/static/js/main.0e79459d.chunk.js"
+    "revision": "a8eedd5a25b58add688c",
+    "url": "/honghac/static/js/main.5286e70b.chunk.js"
   },
   {
     "revision": "63e545a81ddaeb9e8cb9",
