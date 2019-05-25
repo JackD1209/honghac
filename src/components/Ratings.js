@@ -16,16 +16,16 @@ const Ratings = () => {
                         <div className="owl-wrapper-outer"><div className="owl-wrapper" style={{width: '4914px', left: '0px', display: 'block'}}><div className="owl-item" style={{width: '819px'}}><div className="item">
                             <div className="testi-desc">
                                 <div className="testi-thumb">
-                                    <img width="300" height="300" src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg 300w, http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+                                    <img width="300" height="300" src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg 300w, https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum pellentesque molestie. In vel finibus nulla. Phasellus justo nisl, posuere eget velit ut, rutrum laoreet lectus. Sed suscipit gravida arcu non pulvinar. Sed accumsan nulla in tortor faucibus porta. Duis varius, libero quis cursus venenatis, nisi sapien…</p>
 
                                 <div className="tmttl">
-                                    <h4><a href="http://flythemesdemo.net/travern/testimonials/easy-setup/">Easy Setup</a></h4>
+                                    <h4><a href="https://flythemesdemo.net/travern/testimonials/easy-setup/">Easy Setup</a></h4>
                                 </div>
                             </div>
                         </div></div><div className="owl-item" style={{width: '819px'}}><div className="item">
                             <div className="testi-desc">
-                                <div className="testi-thumb"><img width="300" height="300" src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg 300w, http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+                                <div className="testi-thumb"><img width="300" height="300" src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg 300w, https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum pellentesque molestie. In vel finibus nulla. Phasellus justo nisl, posuere eget velit ut, rutrum laoreet lectus. Sed suscipit gravida arcu non pulvinar. Sed accumsan nulla in tortor faucibus porta. Duis varius, libero quis cursus venenatis, nisi sapien…</p>
 
                                 <div className="tmttl">
@@ -34,7 +34,7 @@ const Ratings = () => {
                             </div>
                         </div></div><div className="owl-item" style={{width: '819px'}}><div className="item">
                             <div className="testi-desc">
-                                <div className="testi-thumb"><img width="300" height="300" src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg 300w, http://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div>
+                                <div className="testi-thumb"><img width="300" height="300" src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg" className="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi.jpg 300w, https://flythemesdemo.net/travern/wp-content/uploads/2018/09/testi-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /></div>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur condimentum pellentesque molestie. In vel finibus nulla. Phasellus justo nisl, posuere eget velit ut, rutrum laoreet lectus. Sed suscipit gravida arcu non pulvinar. Sed accumsan nulla in tortor faucibus porta. Duis varius, libero quis cursus venenatis, nisi sapien…</p>
 
                                 <div className="tmttl">

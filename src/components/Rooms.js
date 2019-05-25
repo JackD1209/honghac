@@ -14,7 +14,7 @@ const Rooms = () => {
                     </div>
                     <div className="one_third "><div className="hotel-room">
                         <div className="hotel-room-thumb">
-                            <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/room6-1.jpg" />
+                            <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/room6-1.jpg" />
                             <div className="room-thumb-overlay">
                                 <a>View More</a>
                             </div>
@@ -30,7 +30,7 @@ const Rooms = () => {
                         </div>
                     </div></div><div className="one_third "><div className="hotel-room">
                         <div className="hotel-room-thumb">
-                            <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/room5-1.jpg" />
+                            <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/room5-1.jpg" />
                             <div className="room-thumb-overlay">
                                 <a >View More</a>
                             </div>
@@ -46,7 +46,7 @@ const Rooms = () => {
                         </div>
                     </div></div><div className="one_third  last_column"><div className="hotel-room">
                         <div className="hotel-room-thumb">
-                            <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/room4-1.jpg" />
+                            <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/room4-1.jpg" />
                             <div className="room-thumb-overlay">
                                 <a>View More</a>
                             </div>
@@ -62,7 +62,7 @@ const Rooms = () => {
                         </div>
                     </div></div><div className="one_third "><div className="hotel-room">
                         <div className="hotel-room-thumb">
-                            <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/room3-1.jpg" />
+                            <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/room3-1.jpg" />
                             <div className="room-thumb-overlay">
                                 <a>View More</a>
                             </div>
@@ -78,7 +78,7 @@ const Rooms = () => {
                         </div>
                     </div></div><div className="one_third "><div className="hotel-room">
                         <div className="hotel-room-thumb">
-                            <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/room2-1.jpg" />
+                            <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/room2-1.jpg" />
                             <div className="room-thumb-overlay">
                                 <a>View More</a>
                             </div>
@@ -94,7 +94,7 @@ const Rooms = () => {
                         </div>
                     </div></div><div className="one_third  last_column"><div className="hotel-room">
                         <div className="hotel-room-thumb">
-                            <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/room1-1.jpg" />
+                            <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/room1-1.jpg" />
                             <div className="room-thumb-overlay">
                                 <a>View More</a>
                             </div>

@@ -15,7 +15,7 @@ const News = () => {
                     <div className="latestnews-wrap"><div className="news-box animate-image  ">
                         <div className="news-thumb">
                             <figure className="news-thumb-wrap">
-                                <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/blog-1.jpg" alt=" " />
+                                <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/blog-1.jpg" alt=" " />
                             </figure>
                         </div>
                         <div className="news-desc">
@@ -30,7 +30,7 @@ const News = () => {
                     </div><div className="news-box animate-image  ">
                             <div className="news-thumb">
                                 <figure className="news-thumb-wrap">
-                                    <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/blog-2.jpg" alt=" " />
+                                    <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/blog-2.jpg" alt=" " />
                                 </figure>
                             </div>
                             <div className="news-desc">
@@ -45,7 +45,7 @@ const News = () => {
                         </div><div className="news-box animate-image lastcols">
                             <div className="news-thumb">
                                 <figure className="news-thumb-wrap">
-                                    <img src="http://flythemesdemo.net/travern/wp-content/uploads/2018/09/blog-3.jpg" alt=" " />
+                                    <img src="https://flythemesdemo.net/travern/wp-content/uploads/2018/09/blog-3.jpg" alt=" " />
                                 </figure>
                             </div>
                             <div className="news-desc">
